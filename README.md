@@ -12,7 +12,7 @@
 
 \- \[Portfolio-Website](https://github.com/IsmayilOne/Portfolio-Website) – Мой сайт / демо
 
-\- \[WeatherBot Screenshot](images/Screenshot 2025-12-15 165419.png)
+![WeatherBot Screenshot](images/Screenshot%202025-12-15%20165419.png)
 
 
 \## Контакты
